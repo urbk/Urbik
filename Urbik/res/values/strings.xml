@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Urbik</string>
+    <string name="action_settings">Options</string>
+    <string name="b_Carte">test</string>
+    <string name="b_Geo">Géolocalisations</string>
+    <string name="b_VueEnCoupe">Tracking 3D</string>
+    <string name="b_Wifi">Wi-Fi connect</string>
+    <string name="b_SearchNetwork">Se connecter !</string>
+    <string name="i_FondDesc">Image de fond</string>
+    <string name="title_activity_wifi">WifiActivity</string>
+    <string name="tv_network">Vous n\'êtes pas connecté au réseau Urbik</string>
+    <string name="b_downloadVideo">Récupérer la vidéo</string>
+    <string name="b_resetTracking"></string>
+    <string name="title_activity_tracking3D">Tracking3D</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnClose">close</string>
+    <string name="metaioSDKSignature">20N9Zx6a1GNIi0zxxYqFMexmC9SuYaxk/C8/NaUr/iE=</string>
+    
+ 	<string-array name="items">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+    </string-array>
+</resources>

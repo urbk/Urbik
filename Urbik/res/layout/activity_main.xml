@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fond"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/bTracking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/b_fond"
+        android:onClick="vueTracking"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="@string/b_VueEnCoupe" />
+
+    <Button 
+        android:id="@+id/bWifi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="5dip"
+        android:background="@drawable/b_fond"
+        android:onClick="vueWifi"
+        android:text="@string/b_Wifi" />
+
+</LinearLayout>
